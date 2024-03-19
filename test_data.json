@@ -1,0 +1,405 @@
+{
+    "training_data_set": [
+        {
+            "annotations": [
+                {
+                    "end": 42,
+                    "start": 27,
+                    "type": "person"
+                },
+                {
+                    "end": 67,
+                    "start": 61,
+                    "type": "gpe"
+                },
+                {
+                    "end": 94,
+                    "start": 86,
+                    "type": "gpe"
+                },
+                {
+                    "end": 229,
+                    "start": 218,
+                    "type": "date"
+                },
+                {
+                    "end": 269,
+                    "start": 247,
+                    "type": "date"
+                },
+                {
+                    "end": 442,
+                    "start": 436,
+                    "type": "org"
+                },
+                {
+                    "end": 562,
+                    "start": 557,
+                    "type": "date"
+                },
+                {
+                    "end": 625,
+                    "start": 619,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 667,
+                    "start": 661,
+                    "type": "money"
+                },
+                {
+                    "end": 676,
+                    "start": 670,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 772,
+                    "start": 762,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 780,
+                    "start": 775,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 795,
+                    "start": 789,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 815,
+                    "start": 810,
+                    "type": "money"
+                },
+                {
+                    "end": 829,
+                    "start": 824,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 983,
+                    "start": 956,
+                    "type": "money"
+                },
+                {
+                    "end": 1004,
+                    "start": 988,
+                    "type": "money"
+                },
+                {
+                    "end": 1142,
+                    "start": 1134,
+                    "type": "date"
+                },
+                {
+                    "end": 1188,
+                    "start": 1177,
+                    "type": "date"
+                },
+                {
+                    "end": 1233,
+                    "start": 1223,
+                    "type": "date"
+                },
+                {
+                    "end": 1269,
+                    "start": 1268,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 1274,
+                    "start": 1273,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 1592,
+                    "start": 1521,
+                    "type": "date"
+                },
+                {
+                    "end": 1639,
+                    "start": 1628,
+                    "type": "date"
+                },
+                {
+                    "end": 1853,
+                    "start": 1834,
+                    "type": "date"
+                },
+                {
+                    "end": 1876,
+                    "start": 1875,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 1973,
+                    "start": 1950,
+                    "type": "org"
+                },
+                {
+                    "end": 2298,
+                    "start": 2275,
+                    "type": "date"
+                },
+                {
+                    "end": 2339,
+                    "start": 2335,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 2361,
+                    "start": 2350,
+                    "type": "date"
+                },
+                {
+                    "end": 2400,
+                    "start": 2396,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 2421,
+                    "start": 2418,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 2566,
+                    "start": 2550,
+                    "type": "quantity"
+                },
+                {
+                    "end": 2742,
+                    "start": 2716,
+                    "type": "org"
+                },
+                {
+                    "end": 2799,
+                    "start": 2798,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 2991,
+                    "start": 2978,
+                    "type": "prod"
+                },
+                {
+                    "end": 3016,
+                    "start": 3008,
+                    "type": "org"
+                },
+                {
+                    "end": 3021,
+                    "start": 3018,
+                    "type": "org"
+                },
+                {
+                    "end": 3313,
+                    "start": 3309,
+                    "type": "date"
+                },
+                {
+                    "end": 3337,
+                    "start": 3332,
+                    "type": "date"
+                },
+                {
+                    "end": 3495,
+                    "start": 3473,
+                    "type": "org"
+                },
+                {
+                    "end": 3501,
+                    "start": 3497,
+                    "type": "fac"
+                },
+                {
+                    "end": 3514,
+                    "start": 3503,
+                    "type": "org"
+                },
+                {
+                    "end": 3528,
+                    "start": 3516,
+                    "type": "fac"
+                },
+                {
+                    "end": 3538,
+                    "start": 3530,
+                    "type": "fac"
+                },
+                {
+                    "end": 3648,
+                    "start": 3645,
+                    "type": "money"
+                },
+                {
+                    "end": 3652,
+                    "start": 3649,
+                    "type": "money"
+                },
+                {
+                    "end": 3684,
+                    "start": 3681,
+                    "type": "money"
+                },
+                {
+                    "end": 3694,
+                    "start": 3690,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 3703,
+                    "start": 3700,
+                    "type": "money"
+                },
+                {
+                    "end": 3714,
+                    "start": 3710,
+                    "type": "money"
+                },
+                {
+                    "end": 3719,
+                    "start": 3716,
+                    "type": "money"
+                },
+                {
+                    "end": 3725,
+                    "start": 3723,
+                    "type": "percent"
+                },
+                {
+                    "end": 4070,
+                    "start": 4032,
+                    "type": "date"
+                },
+                {
+                    "end": 4221,
+                    "start": 4215,
+                    "type": "date"
+                },
+                {
+                    "end": 4359,
+                    "start": 4344,
+                    "type": "date"
+                },
+                {
+                    "end": 4517,
+                    "start": 4507,
+                    "type": "org"
+                },
+                {
+                    "end": 4577,
+                    "start": 4539,
+                    "type": "date"
+                },
+                {
+                    "end": 4604,
+                    "start": 4601,
+                    "type": "percent"
+                },
+                {
+                    "end": 4700,
+                    "start": 4685,
+                    "type": "fac"
+                },
+                {
+                    "end": 4724,
+                    "start": 4705,
+                    "type": "fac"
+                },
+                {
+                    "end": 4737,
+                    "start": 4726,
+                    "type": "gpe"
+                },
+                {
+                    "end": 4760,
+                    "start": 4751,
+                    "type": "gpe"
+                },
+                {
+                    "end": 4956,
+                    "start": 4945,
+                    "type": "fac"
+                },
+                {
+                    "end": 4988,
+                    "start": 4982,
+                    "type": "gpe"
+                },
+                {
+                    "end": 5000,
+                    "start": 4990,
+                    "type": "gpe"
+                },
+                {
+                    "end": 5007,
+                    "start": 5001,
+                    "type": "date"
+                },
+                {
+                    "end": 5129,
+                    "start": 5123,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 5488,
+                    "start": 5481,
+                    "type": "date"
+                },
+                {
+                    "end": 5714,
+                    "start": 5708,
+                    "type": "cardinal"
+                },
+                {
+                    "end": 5724,
+                    "start": 5715,
+                    "type": "percent"
+                },
+                {
+                    "end": 5733,
+                    "start": 5725,
+                    "type": "percent"
+                },
+                {
+                    "end": 5751,
+                    "start": 5734,
+                    "type": "percent"
+                },
+                {
+                    "end": 5891,
+                    "start": 5872,
+                    "type": "date"
+                },
+                {
+                    "end": 6089,
+                    "start": 6085,
+                    "type": "time"
+                },
+                {
+                    "end": 6119,
+                    "start": 6113,
+                    "type": "time"
+                },
+                {
+                    "end": 6217,
+                    "start": 6210,
+                    "type": "org"
+                },
+                {
+                    "end": 6222,
+                    "start": 6219,
+                    "type": "org"
+                },
+                {
+                    "end": 6296,
+                    "start": 6291,
+                    "type": "cardinal"
+                }
+            ],
+            "content": "POSTPAID MONTHLY STATEMENT Mr. Vishal Nagda 112 Adarsh Nagar Udaipur Udaipur Udaipur, Rajasthan, 313001 Email Address: vishalnagda1@gmail.com Phone Number: 8769032876 Your Plan: Infinity Family Plan 399 Statement Date:06 Mar 2024 Statement Period:05 Feb 2024-04 Mar 2024 Your Plan: Infinity Family Plan 399 Statement Date:06 Mar 2024 Statement Period:05 Feb 2024-04 Mar 2024 Total Amount Payable: Due Date: ` 470.82 16 Mar 2024 Pay via Airtel Thanks App www.airtel.in/pay Scan & pay via any UPI Apps Powered by    Last bill amount Payment made Credits This Month's Charges Amount Payable Amount after due date(16Mar) ` 470.82 - ` 470.82 - ` 0.00 + ` 470.82 = ` 470.82 ` 588.82   This Month's Charges Summary Services Plan/Pack Charges Other Charges Total Mobile 8769032876 ` 399.0 ` 0.0 ` 399.00 Taxes (GST) ` 71.82 ` 0.0 ` 71.82 This month's charges ` 470.82 Last bill amount - - ` 470.82 Payment made1 - - - ` 470.82 Total (Incl. Taxes) ` 470.82 Total : Four Hundred Seventy Rupees and Eighty Two Paise Only Bills & Payments Summary Month Previous Dues (A) Payments (B) Credits (C) This month's charges (D) Amount Payable (A+B+C+D) March'24 470.82 -470.82 0.00 470.82 470.82 February'24 476.72 -476.72 0.00 470.82 470.82 January'24 0.00 0.00 0.00 476.72 476.72 Page 1 of 4 Page 1 of 4 POSTPAID MONTHLY STATEMENT Mr. Vishal Nagda 112 Adarsh Nagar Udaipur Udaipur Udaipur 313001 Rajasthan Email Address: vishalnagda1@gmail.com Phone Number: 8769032876 Your Plan: Infinity Family Plan 399 Number of Connections: Statement Date:06-MAR-2024 Statement Period:05/02/24 - 04/03/24 Statement Number: Amount Payable: ` 470.82 Due Date: 16-MAR-2024 This is only a summary statement. Input tax credit will not be available on the basis of this document. Payment Details1 Description Date Amount Paid Payment via Third Party BBPS (Digital-APBL) 08 Feb 2024 -470.82 Total ` -470.82 Page 2 of 4 Page 2 of 4 MOBILE SERVICES Original Copy for Recipient provided by Bharti Hexacom Limited- Tax Invoice 1-5167480793681 Billing Address Mr. Vishal Nagda 112 Adarsh Nagar Udaipur Udaipur Udaipur 313001 Rajasthan Email: vishalnagda1@gmail.com PhoneNo: 8769032876 BM2408I004331100 1-5167480793681 Ship To State Code : 08 Place of Supply : Rajasthan Account Account No 1-5167480793681 Bill Period 05 Feb 2024-04 Mar 2024 Bill NO BM2408I004331100 Adjustment 0.00 Bill Date 06 Mar 2024 Due date 16 Mar 2024 Credit limit 2500 Security deposit 0.0 This Month's Charges Charges (` ) Rental Charges 399.00 Taxes 71.82 Total Amount ` 470.82 Total:Four Hundred Seventy Rupees and Eighty Two Paise Only Detailed breakup of these charges can be found on next page Send payment to 1-5167480793681.POST@mairtel Scan & pay via any UPI Apps Powered by For Bharti Hexacom Limited Vasim Unissa S, Head - Experience Operations (VP) Page 3 of 4 Page 3 of 4 YOUR CHARGES IN DETAIL Relationship number Airtel mobile number 1-5167480793681 8769032876     Payment Modes - Pay online using debit/credit card, netbanking on My Airtel App, www.airtel.in, eWallets, UPI, visit an Airtel Store to pay using cash/cheque/credit/debit cards or activate Auto pay options from bank account (NACH) or Credit card account (SI)  Contact Information - For Queries: Call 121(tollfree) | Complaints: Call 198(tollfree) | Email: 121@airtel.com | NDNC Registration: Call 1909 (Activation time: 7days) | Complaint / SR Status: www.airtel.in/airtelpresence . Appellate Desk: Mr. Khushwinder Singh;9958444865;appellate.raj@in.airtel.com ;Bharti Hexacom Limited, K-21, Sunny House, Malviya Marg, C-Scheme, Jaipur-302001, Rajasthan Call 1930 for cyber-crime fraud reporting. Charges - Cheque / SI / ECS Decline: Rs. 200 | Late fee (Bill value >Rs. 300 upto 5000: Rs. 100, >Rs. 5000: 750 or 2% whichever is higher, Max Late fee Rs. 750) | No charge is levied for any service without your explicit consent Address change - Visit the nearest Airtel Store with new address proof.For store details, visit www.airtel.in/store Other Information - Tariff Plan: No increase in any line item (except ISD) for first 6months effective enrolment date. T&C apply | No fee is charged for migrating to any plan | Disconnection: For permanent disconnection, security deposit will be refunded within 60days. Else, interest will be paid @10%p.a. | Call pulses will be rounded off | Billing disagreements should be reported within 2months of bill receipt. Post this period no claim shall be entertained. | The credit limit is not applicable on usage done in international roaming. | As per the Government directive, effective 1-July-17, existing service tax of 15% has been replaced with 18% GST. |Whether tax is payable on Reverse Charge Basis - \"NO\". Registered Office: Bharti crescent, 1, nelson mandela road, vasant kunj, phase - II, new delhi - 110070. Tel: +91-11-4666 6100 Fax: +91-11-4166 6137, e-mail: 121@in.airtel.com, website: www.airtel.in Corporate Identity Number: U74899DL1995PLC067527 Bharti Hexacom Limited, K-21, Sunny House, Malviya Marg, C Scheme, Jaipur, Rajasthan- 302001 State Code: 08 GST registration no.: 08AAACH1766P1Z5 under Category TELECOMMUNICATION SERVICE PAN: AAACH1766P HSN: 998599 Other support services 998433 On-line video content 996812 Courier Services 997317 Leasing or rental services concerning telecommunications equipment with or without operator 998413 Mobile Telecommunication Service 9983 Support services 998716 Maintenance and repair services of telecommunication equipment and apparatus 999799 Other Services n.e.c   Monthly rentals Total(`) Description From date To dateRental Amount Plan Name infinity plan 399 05/02/2024 04/03/2024399.00 399.00 399.00 Tax Details Total(`) CGST SGST/UTGST HSN Taxable Value Rate Amount Rate Amount Total Tax 998413 399.00 9% 35.91 9% 35.91 71.82 71.82 This month's charges 470.82 Payment Details Description Date Total Total(`) Payment via Third Party BBPS (Digital-APBL) 08-Feb-2024 -470.82 -470.82  Tariff Details SMS rates Local(`) National(`) local/national 0.1/msg 0.1/msg national roaming 0.25/msg 0.38/msg international 5/msg 5/msg Call rates Local(`) STD(`) to airtel mobile 00/min 00/min to other mobile 00/min 00/min to landline 00/min 00/min to airtel cug 00/min 00/min video call 00/min 00/min For Roaming, ISD and other plans/tariff, visit www.airtel.in  Data conversion : 1MB =1,024KB ; 1GB=1,024MB/1,048,576KB Page 4 of 4 Page 4 of 4 page_0 page_1 page_2 page_3",
+            "id": "65f70017202e125d12c3a16c"
+        }
+    ]
+}
