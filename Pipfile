@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 spacy = {extras = ["cuda12x"], version = "*"}
+spacy-transformers = "*"
 
 [dev-packages]
 ipykernel = "*"
